@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/posthog-posthog-mcp-badge.png)](https://mseep.ai/app/posthog-posthog-mcp)
+
 # PostHog MCP Server 📊
 
 A Model Context Protocol (MCP) server for interacting with PostHog. Create annotations and manage projects directly through Claude Desktop!
